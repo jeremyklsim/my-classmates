@@ -1,14 +1,12 @@
 <template>
-  <nav>
-    <ul>
-    <li><router-link v-bind:to="'/jack'">Jack</router-link></li>
-    </ul>
-  </nav>
+    <div>
+        <img src="https://ichef.bbci.co.uk/images/ic/704xn/p063cndq.jpg">    
+    </div>
 </template>
 
 <script>
 export default {
-  name: "MyHeader"
+  name: "Jack"
 };
 </script>
 
