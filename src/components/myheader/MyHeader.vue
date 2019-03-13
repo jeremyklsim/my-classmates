@@ -1,7 +1,8 @@
 <template>
   <nav>
     <ul>
-    <li><router-link v-bind:to="'/jack'">Jack</router-link></li>
+    <li><router-link v-bind:to="'/'">Jack</router-link></li>
+    <li><router-link v-bind:to="'/lyndon'">Lyndon</router-link></li>
     </ul>
   </nav>
 </template>

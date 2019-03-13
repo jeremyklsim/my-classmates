@@ -1,6 +1,7 @@
 <template>
     <div>
-        <img src="https://ichef.bbci.co.uk/images/ic/704xn/p063cndq.jpg">    
+      <h1>Hello</h1>
+      <img src="https://ichef.bbci.co.uk/images/ic/704xn/p063cndq.jpg">    
     </div>
 </template>
 
