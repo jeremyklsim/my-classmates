@@ -11,7 +11,7 @@
 </template>
 
 <script>
-import MyHeader from "./components/myheader/MyHeader";
+import MyHeader from "./components/MyHeader";
 
 export default {
   name: "App",

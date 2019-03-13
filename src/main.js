@@ -2,14 +2,14 @@ import Vue from "vue";
 import App from "./App.vue";
 import VueRouter from "vue-router";
 
-import Jack from "./components/myheader/Jack";
+import Jack from "./components/jack/Jack";
 
 Vue.config.productionTip = false;
 
 Vue.use(VueRouter);
 
 const routes = [
-  { path: "/", component: Jack },
+  { path: "/jack", component: Jack },
 ];
 
 const router = new VueRouter({
